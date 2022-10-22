@@ -9,4 +9,7 @@
 <a href="https://steamcommunity.com/id/565462365444322665/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" height="30" width="30" /></a> ToBadForYou
 <br/>
 
-<img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="30" width="30" /> ToBadForYou#6755
+<picture>
+  <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="30" width="30" />
+</picture>
+ToBadForYou#6755
