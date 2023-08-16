@@ -12,7 +12,7 @@
 <picture>
   <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="30" width="30" />
 </picture>
-ToBadForYou#6755
+tobadforyou
   
 <br/>
 <br/>
