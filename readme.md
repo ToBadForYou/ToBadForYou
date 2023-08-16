@@ -1,7 +1,8 @@
 # Welcome to my profile!
+My name is Jonathan Falk, a software engineer currently working at the company Upsales. Most of my freetime is spent working on my own projects. Feel free to connect with me, contact information can be found below.
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathan-falk-4a42a4209/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a> Jonathan Falk
 <br/>
@@ -15,6 +16,13 @@
 tobadforyou
   
 <br/>
+
+## Currently working on
+
+- New robbery system inspired by PAYDAY 2 ![](https://geps.dev/progress/60)
+
+- Android/iOS app ![](https://geps.dev/progress/10)
+
 <br/>
-  
+
 ![](https://komarev.com/ghpvc/?username=ToBadForYou&color=blue)
