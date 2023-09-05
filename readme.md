@@ -23,6 +23,8 @@ tobadforyou
 
 - Android/iOS app ![](https://geps.dev/progress/10)
 
+- RTS game ![](https://geps.dev/progress/5)
+
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=ToBadForYou&color=blue)
