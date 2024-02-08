@@ -17,14 +17,4 @@ tobadforyou
   
 <br/>
 
-## Currently working on
-
-- New robbery system inspired by PAYDAY 2 ![](https://geps.dev/progress/60)
-
-- Android/iOS app ![](https://geps.dev/progress/10)
-
-- RTS game ![](https://geps.dev/progress/5)
-
-<br/>
-
 ![](https://komarev.com/ghpvc/?username=ToBadForYou&color=blue)
