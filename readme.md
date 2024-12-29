@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name is Jonathan Falk, a software engineer currently working at the company Upsales. Most of my freetime is spent working on my own projects. Feel free to connect with me, contact information can be found below.
+My name is Jonathan Falk, a software engineer currently working at the company Ericsson. Most of my freetime is spent working on my own projects. Feel free to connect with me, contact information can be found below.
 <br/>
 
 ## Connect with me
