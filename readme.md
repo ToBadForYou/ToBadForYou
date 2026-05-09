@@ -6,6 +6,7 @@ I focus on building systems and tools, both professionally and in my own project
 ## 🚀 What I'm working on
 - Bounty Hunter 2 - evolving the previously released [addon](https://www.gmodstore.com/market/view/v1-2-2-bounty-hunter-system-customizable-unique-hitman-system)
 - Exploring 3D modelling
+- S&Box project
 
 ## Contact
 
