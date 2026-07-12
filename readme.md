@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-My name is Jonathan Falk, A software engineer at [Wolt](https://github.com/woltapp), collaborating closely with [Deliveroo](https://github.com/deliveroo) as part of [DoorDash](https://github.com/doordash)’s global engineering organization.
+My name is Jonathan Falk, a software engineer at [Wolt](https://github.com/woltapp), collaborating closely with [Deliveroo](https://github.com/deliveroo) as part of [DoorDash](https://github.com/doordash)’s global engineering organization.
 I focus on building systems and tools, both professionally and in my own projects.
 
 ## 🚀 What I'm working on
