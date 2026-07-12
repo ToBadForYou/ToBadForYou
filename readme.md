@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-My name is Jonathan Falk, a software engineer currently working at Wolt.  
+My name is Jonathan Falk, a software engineer currently working at Wolt, collaborating closely with Deliveroo as part of DoorDash’s global engineering organization.
 I focus on building systems and tools, both professionally and in my own projects.
 
 ## 🚀 What I'm working on
